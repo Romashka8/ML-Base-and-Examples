@@ -137,4 +137,4 @@ network.train(X, y, learning_rate, epochs)
 for xi in X:
     output = network.forward(xi)
     print("Input:", xi, "Output:", output)
-ssssssss
+    
